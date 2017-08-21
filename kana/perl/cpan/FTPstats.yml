@@ -1,0 +1,35 @@
+---
+history:
+- attempts:
+  - method: dleasy
+    start: 1462474092.24089
+    url: &1 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://ppm.activestate.com/CPAN/
+  end: 1462474093.14691
+  file: authors/01mailrc.txt.gz
+  filesize: 240413
+  start: 1462474092.24062
+  thesiteurl: *1
+- attempts:
+  - method: dleasy
+    start: 1462474093.83466
+    url: &2 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://ppm.activestate.com/CPAN/
+  end: 1462474096.16267
+  file: modules/02packages.details.txt.gz
+  filesize: 1812591
+  start: 1462474093.83444
+  thesiteurl: *2
+- attempts:
+  - method: dleasy
+    start: 1462474117.82014
+    url: &3 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://ppm.activestate.com/CPAN/
+  end: 1462474117.9641
+  file: modules/03modlist.data.gz
+  filesize: 248
+  start: 1462474117.81989
+  thesiteurl: *3

@@ -1,0 +1,22 @@
+Can't locate MIME/Lite.pm in @INC (you may need to install the MIME::Lite module) (@INC contains: C:/perl/site/lib C:/perl/lib .) at C:\inetpub\wwwroot\bin\KanaFRH.pl line 93.
+BEGIN failed--compilation aborted at C:\inetpub\wwwroot\bin\KanaFRH.pl line 93.
+[Mon Aug 14 20:32:04 2017] KanaFRH.pl: MIME::Lite error sending message: can't extract address at < nemiro <dnemiro@fbbrands.com>> in <dan nemiro <dnemiro@fbbrands.com>>
+[Mon Aug 14 20:32:04 2017] KanaFRH.pl: Message send failed. at C:\inetpub\wwwroot\bin\KanaFRH.pl line 441.
+[Mon Aug 14 20:42:18 2017] KanaFRH.pl: MIME::Lite error sending message: can't extract address at < nemiro <dnemiro@fbbrands.com>> in <dan nemiro <dnemiro@fbbrands.com>>
+[Mon Aug 14 20:42:18 2017] KanaFRH.pl: Message send failed. at C:\inetpub\wwwroot\bin\KanaFRH.pl line 441.
+[Mon Aug 14 20:46:54 2017] KanaFRH.pl: Form data must include "Email Address" field. at C:\inetpub\wwwroot\bin\KanaFRH.pl line 441.
+[Mon Aug 14 20:47:00 2017] KanaFRH.pl: MIME::Lite error sending message: can't extract address at < nemiro <dnemiro@fbbrands.com>> in <dan nemiro <dnemiro@fbbrands.com>>
+[Mon Aug 14 20:47:00 2017] KanaFRH.pl: Message send failed. at C:\inetpub\wwwroot\bin\KanaFRH.pl line 441.
+[Mon Aug 14 20:52:27 2017] KanaFRH.pl: MIME::Lite error sending message: can't extract address at < nemiro <dnemiro@fbbrands.com>> in <dan nemiro <dnemiro@fbbrands.com>>
+[Mon Aug 14 20:52:27 2017] KanaFRH.pl: Message send failed. at C:\inetpub\wwwroot\bin\KanaFRH.pl line 441.
+[Mon Aug 14 21:11:37 2017] KanaFRH.pl: MIME::Lite error sending message: can't extract address at < nemiro <dnemiro@fbbrands.com>> in <dan nemiro <dnemiro@fbbrands.com>>
+[Mon Aug 14 21:11:37 2017] KanaFRH.pl: Message send failed. at C:\inetpub\wwwroot\bin\KanaFRH.pl line 441.
+[Mon Aug 14 21:48:14 2017] KanaFRH.pl: MIME::Lite error sending message: can't extract address at < nemiro <dnemiro@fbbrands.com>> in <dan nemiro <dnemiro@fbbrands.com>>
+[Mon Aug 14 21:48:14 2017] KanaFRH.pl: Message send failed. at C:\inetpub\wwwroot\bin\KanaFRH.pl line 442.
+[Mon Aug 14 21:52:48 2017] KanaFRH.pl: Form data must include "Email Address" field. at C:\inetpub\wwwroot\bin\KanaFRH.pl line 441.
+syntax error at C:\inetpub\wwwroot\bin\KanaFRH.pl line 421, near "$[0"
+Global symbol "$msg" requires explicit package name (did you forget to declare "my $msg"?) at C:\inetpub\wwwroot\bin\KanaFRH.pl line 426.
+Unmatched right curly bracket at C:\inetpub\wwwroot\bin\KanaFRH.pl line 432, at end of line
+Execution of C:\inetpub\wwwroot\bin\KanaFRH.pl aborted due to compilation errors.
+[Mon Aug 14 22:03:24 2017] KanaFRH.pl: MIME::Lite error sending message: can't extract address at < nemiro <dnemiro@fbbrands.com>> in <dan nemiro <dnemiro@fbbrands.com>>
+[Mon Aug 14 22:03:24 2017] KanaFRH.pl: Message send failed. at C:\inetpub\wwwroot\bin\KanaFRH.pl line 441.
